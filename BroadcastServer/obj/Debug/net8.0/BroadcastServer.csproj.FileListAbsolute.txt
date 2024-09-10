@@ -1,0 +1,15 @@
+C:\projects\RoadMapProjects\BroadcastServer\bin\Debug\net8.0\BroadcastServer.exe
+C:\projects\RoadMapProjects\BroadcastServer\bin\Debug\net8.0\BroadcastServer.deps.json
+C:\projects\RoadMapProjects\BroadcastServer\bin\Debug\net8.0\BroadcastServer.runtimeconfig.json
+C:\projects\RoadMapProjects\BroadcastServer\bin\Debug\net8.0\BroadcastServer.dll
+C:\projects\RoadMapProjects\BroadcastServer\bin\Debug\net8.0\BroadcastServer.pdb
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.AssemblyInfoInputs.cache
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.AssemblyInfo.cs
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.csproj.CoreCompileInputs.cache
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.sourcelink.json
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.dll
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\refint\BroadcastServer.dll
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.pdb
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\BroadcastServer.genruntimeconfig.cache
+C:\projects\RoadMapProjects\BroadcastServer\obj\Debug\net8.0\ref\BroadcastServer.dll
