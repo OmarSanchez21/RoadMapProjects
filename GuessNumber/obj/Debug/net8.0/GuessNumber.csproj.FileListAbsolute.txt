@@ -1,0 +1,15 @@
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.AssemblyInfoInputs.cache
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.AssemblyInfo.cs
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.sourcelink.json
+C:\projects\RoadMapProjects\GuessNumber\bin\Debug\net8.0\GuessNumber.exe
+C:\projects\RoadMapProjects\GuessNumber\bin\Debug\net8.0\GuessNumber.deps.json
+C:\projects\RoadMapProjects\GuessNumber\bin\Debug\net8.0\GuessNumber.runtimeconfig.json
+C:\projects\RoadMapProjects\GuessNumber\bin\Debug\net8.0\GuessNumber.dll
+C:\projects\RoadMapProjects\GuessNumber\bin\Debug\net8.0\GuessNumber.pdb
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.dll
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\refint\GuessNumber.dll
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.pdb
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\GuessNumber.genruntimeconfig.cache
+C:\projects\RoadMapProjects\GuessNumber\obj\Debug\net8.0\ref\GuessNumber.dll

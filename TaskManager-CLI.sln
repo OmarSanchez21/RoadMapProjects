@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager-CLI", "TaskManager-CLI\TaskManager-CLI.csproj", "{0730B95D-FF39-4032-A4D7-E72AF96F1203}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub Activity", "GitHub Activity\GitHub Activity.csproj", "{F34FB580-C569-418D-A70D-B7FD4DFCDD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{8A104422-358C-4EAF-AD5F-806A368F4779}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{0730B95D-FF39-4032-A4D7-E72AF96F1203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0730B95D-FF39-4032-A4D7-E72AF96F1203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0730B95D-FF39-4032-A4D7-E72AF96F1203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34FB580-C569-418D-A70D-B7FD4DFCDD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34FB580-C569-418D-A70D-B7FD4DFCDD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34FB580-C569-418D-A70D-B7FD4DFCDD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34FB580-C569-418D-A70D-B7FD4DFCDD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A104422-358C-4EAF-AD5F-806A368F4779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A104422-358C-4EAF-AD5F-806A368F4779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A104422-358C-4EAF-AD5F-806A368F4779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A104422-358C-4EAF-AD5F-806A368F4779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

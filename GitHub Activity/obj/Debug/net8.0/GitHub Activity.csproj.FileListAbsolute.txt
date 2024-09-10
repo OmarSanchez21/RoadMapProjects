@@ -1,0 +1,15 @@
+C:\projects\RoadMapProjects\GitHub Activity\bin\Debug\net8.0\GitHub Activity.exe
+C:\projects\RoadMapProjects\GitHub Activity\bin\Debug\net8.0\GitHub Activity.deps.json
+C:\projects\RoadMapProjects\GitHub Activity\bin\Debug\net8.0\GitHub Activity.runtimeconfig.json
+C:\projects\RoadMapProjects\GitHub Activity\bin\Debug\net8.0\GitHub Activity.dll
+C:\projects\RoadMapProjects\GitHub Activity\bin\Debug\net8.0\GitHub Activity.pdb
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.AssemblyInfoInputs.cache
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.AssemblyInfo.cs
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.csproj.CoreCompileInputs.cache
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.sourcelink.json
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.dll
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\refint\GitHub Activity.dll
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.pdb
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\GitHub Activity.genruntimeconfig.cache
+C:\projects\RoadMapProjects\GitHub Activity\obj\Debug\net8.0\ref\GitHub Activity.dll
