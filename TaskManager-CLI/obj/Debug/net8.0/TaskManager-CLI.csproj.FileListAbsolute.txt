@@ -1,0 +1,17 @@
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\TaskManager-CLI.exe
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\TaskManager-CLI.deps.json
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\TaskManager-CLI.runtimeconfig.json
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\TaskManager-CLI.dll
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\TaskManager-CLI.pdb
+C:\projects\RoadMapProjects\TaskManager-CLI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.csproj.AssemblyReference.cache
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.AssemblyInfoInputs.cache
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.AssemblyInfo.cs
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.csproj.CoreCompileInputs.cache
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskMana.46A27761.Up2Date
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.dll
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\refint\TaskManager-CLI.dll
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.pdb
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\TaskManager-CLI.genruntimeconfig.cache
+C:\projects\RoadMapProjects\TaskManager-CLI\obj\Debug\net8.0\ref\TaskManager-CLI.dll
